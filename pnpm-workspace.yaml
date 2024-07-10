@@ -1,0 +1,3 @@
+packages:
+  - apps/retrolapse-web
+  - apps/retrolapse-api
